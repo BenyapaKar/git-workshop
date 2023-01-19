@@ -10,3 +10,15 @@
 img.profile {
 	border-radius: 50%;
 }
+
+.profilebox{
+	background-color: rgb(219, 219, 252);
+	border: 10px solid powderblue;
+	border-radius: 20%;
+	padding: 20px;
+}
+h1{
+	color: rgb(36, 10, 129);
+	text-align: center;
+	background-color:  rgb(219, 219, 252);
+}
